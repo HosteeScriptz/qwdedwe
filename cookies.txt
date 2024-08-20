@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.sellix.io	TRUE	/	FALSE	1999999999	__cf_bm	5IkQN3Z4xAGNj2QbPbW4MbTahKMkpxe2_DPIgLcD0NM-1724163913-1.0.1.1-7zVJtTY0suAZi94ZhWFDCePFMD1Hh6NqRM1e7w6odPQZ4e8_vk06XlTSYD5NiX14FUh2dcqkt8vQbxdi_SyUYg
+cdn.sellix.io	TRUE	/	FALSE	1999999999	SameSite	None
+discord.com	TRUE	/	FALSE	1999999999	__dcfduid	0531e7505f0011ef9aaa83f3539a92a8
+discord.com	TRUE	/	FALSE	1999999999	__sdcfduid	0531e7515f0011ef9aaa83f3539a92a85f91a0393f4da7fdd9e22652231d5f141dfb2d81f42dec12950d7f377d9bfee5
+.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	6vvGIkC4w22t_shp.MshPv7eneyW4TFRjOmx9X1E9u0-1724164023-1.0.1.1-mQtHDn9tMmH6FocW9mWJbkarBtze5DYXYN3m0dkgIgIc9Komu7z4sjZhis.bryoIxLiz5AfD23BLejQES5tJaw
+.discordapp.com	TRUE	/	FALSE	1999999999	_cfuvid	_Qum0jMgdWvsV.R_Rzmf5yUIQlsgZXaTnolmRxE_KJk-1724164023075-0.0.1.1-604800000
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+.discord.com	TRUE	/	FALSE	1999999999	__cfruid	b690a045b00eb47e2edb6bb215837b013ca0ff6f-1724164066
+.discord.com	TRUE	/	FALSE	1999999999	_cfuvid	rIwp_Q_Iyc.yEf4LepEsI7ONFotRrdshTkpiGLPAJsA-1724164066932-0.0.1.1-604800000
+discord.com	TRUE	/	FALSE	1999999999	SameSite	None
+

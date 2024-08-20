@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 20 Aug 2024 17:24:55 at https://boost4u.cc/ https://boost4u.cc/#about https://boost4u.cc/#products https://boost4u.cc/#features https://boost4u.cc/faq.php https://boost4u.cc/vouches.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://boost4u.cc/ https://boost4u.cc/#about https://boost4u.cc/#products https://boost4u.cc/#features https://boost4u.cc/faq.php https://boost4u.cc/vouches.php -O1 "C:\Users\SaifMElabd\Desktop\Boost4U" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:26:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+17:26:03	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/about (from primary/primary)
+17:26:06	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/products (from primary/primary)
+17:26:09	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/features (from primary/primary)
+17:26:16	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://boost4u.cc/)
+17:26:18	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://boost4u.cc/)
+17:26:38	Error: 	"Not Found" (404) at link https://unpkg.com/aos@2.3.1/dist/aos2.css (from https://boost4u.cc/)
+17:27:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/about (from primary/primary)
+17:27:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/products (from primary/primary)
+17:27:17	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/features (from primary/primary)
+17:27:20	Error: 	"Not Found" (404) at link https://boost4u.cc/images/product_placeholder.png (from https://boost4u.cc/global.css?t=1724163907)
+17:27:46	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/about (from primary/primary)
+17:27:46	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/products (from primary/primary)
+17:27:46	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/features (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 53 seconds : 221 links scanned, 202 files written (25276574 bytes overall) [12556763 bytes received at 72582 bytes/sec], 17761189 bytes transferred using HTTP compression in 123 files, ratio 26%, 5.0 requests per connection
+(8 errors, 6 warnings, 0 messages)
